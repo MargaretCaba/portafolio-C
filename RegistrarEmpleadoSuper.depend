@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1694723273 source:c:\users\margaret quezada\onedrive - pontificia universidad católica madre y maestra\documentos\codec\registrarempleadosuper\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<stdbool.h>
-	<ctype.h>
-
