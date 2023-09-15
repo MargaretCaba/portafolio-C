@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1694724861 source:c:\users\margaret quezada\onedrive - pontificia universidad católica madre y maestra\documentos\codec\temporizador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
