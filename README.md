@@ -6,7 +6,7 @@ Este portafolio es para demostrar los conocimientos que tengo del lenguaje #C
 **Margaret Quezada**
 
 ## Ver ejemplo en vivo
-- []
+- [https://margaretcaba.github.io/portafolio-C/](https://margaretcaba.github.io/portafolio-C/)
 
 ## Instalación
 Estos proyectos no necesitan una instalacion.
